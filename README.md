@@ -18,7 +18,7 @@ z = 3x1 + 2x2 + 5x3\
 #### subject to: 
 x1 + 2x2 +x3 <= 430\
 3x1 + 2x3 <= 460\
-x1 + 4x2 <=420
+x1 + 4x2 <=420\
 x1, x2, x3 >= 0\
 input :\
 ![Screenshot from 2023-03-14 22-48-43](https://user-images.githubusercontent.com/123622678/225087192-ef0511d1-c9a4-4c1a-b768-a22637dd768a.png)
