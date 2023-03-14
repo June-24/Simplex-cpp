@@ -72,7 +72,7 @@ int main()
         if (obj_fun[i] < 0)
             cout << "+" << -1 * obj_fun[i] << "X" << i + 1 << " ";
         else
-            cout << obj_fun[i] << "X" << i + 1 << " ";
+            cout << -1 * obj_fun[i] << "X" << i + 1 << " ";
     cout << endl;
     cout << "The Given Constraints are: " << endl;
     for (int i = 0; i < constraints; i++)
