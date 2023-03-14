@@ -1,6 +1,6 @@
 # Simplex-cpp
 basic implementation of Simplex Algorithm to determine the optimal value of the objective function\
-NOTE: only for Maximization problems\
+## NOTE: only for Maximization problems\
 \
 please contribute if you can do it for minimization problem as well\
 Example 1:\
